@@ -1,0 +1,14 @@
+C:\Users\43443628885\source\repos\ExerciciosLogicaprog\ExerciciosLogicaprog\bin\Debug\net10.0\ExerciciosLogicaprog.exe
+C:\Users\43443628885\source\repos\ExerciciosLogicaprog\ExerciciosLogicaprog\bin\Debug\net10.0\ExerciciosLogicaprog.deps.json
+C:\Users\43443628885\source\repos\ExerciciosLogicaprog\ExerciciosLogicaprog\bin\Debug\net10.0\ExerciciosLogicaprog.runtimeconfig.json
+C:\Users\43443628885\source\repos\ExerciciosLogicaprog\ExerciciosLogicaprog\bin\Debug\net10.0\ExerciciosLogicaprog.dll
+C:\Users\43443628885\source\repos\ExerciciosLogicaprog\ExerciciosLogicaprog\bin\Debug\net10.0\ExerciciosLogicaprog.pdb
+C:\Users\43443628885\source\repos\ExerciciosLogicaprog\ExerciciosLogicaprog\obj\Debug\net10.0\ExerciciosLogicaprog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43443628885\source\repos\ExerciciosLogicaprog\ExerciciosLogicaprog\obj\Debug\net10.0\ExerciciosLogicaprog.AssemblyInfoInputs.cache
+C:\Users\43443628885\source\repos\ExerciciosLogicaprog\ExerciciosLogicaprog\obj\Debug\net10.0\ExerciciosLogicaprog.AssemblyInfo.cs
+C:\Users\43443628885\source\repos\ExerciciosLogicaprog\ExerciciosLogicaprog\obj\Debug\net10.0\ExerciciosLogicaprog.csproj.CoreCompileInputs.cache
+C:\Users\43443628885\source\repos\ExerciciosLogicaprog\ExerciciosLogicaprog\obj\Debug\net10.0\ExerciciosLogicaprog.dll
+C:\Users\43443628885\source\repos\ExerciciosLogicaprog\ExerciciosLogicaprog\obj\Debug\net10.0\refint\ExerciciosLogicaprog.dll
+C:\Users\43443628885\source\repos\ExerciciosLogicaprog\ExerciciosLogicaprog\obj\Debug\net10.0\ExerciciosLogicaprog.pdb
+C:\Users\43443628885\source\repos\ExerciciosLogicaprog\ExerciciosLogicaprog\obj\Debug\net10.0\ExerciciosLogicaprog.genruntimeconfig.cache
+C:\Users\43443628885\source\repos\ExerciciosLogicaprog\ExerciciosLogicaprog\obj\Debug\net10.0\ref\ExerciciosLogicaprog.dll

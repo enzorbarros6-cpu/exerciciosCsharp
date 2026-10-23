@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\43443628885\\source\\repos\\ExerciciosLogicaprog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8D8B63-71E1-96B6-45F9-4349C56BEF32}|ExerciciosLogicaprog\\ExerciciosLogicaprog.csproj|c:\\users\\43443628885\\source\\repos\\exercicioslogicaprog\\exercicioslogicaprog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8D8B63-71E1-96B6-45F9-4349C56BEF32}|ExerciciosLogicaprog\\ExerciciosLogicaprog.csproj|solutionrelative:exercicioslogicaprog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\43443628885\\source\\repos\\ExerciciosLogicaprog\\ExerciciosLogicaprog\\Program.cs",
+              "RelativeDocumentMoniker": "ExerciciosLogicaprog\\Program.cs",
+              "ToolTip": "C:\\Users\\43443628885\\source\\repos\\ExerciciosLogicaprog\\ExerciciosLogicaprog\\Program.cs",
+              "RelativeToolTip": "ExerciciosLogicaprog\\Program.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T19:53:55.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
